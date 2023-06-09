@@ -4,7 +4,7 @@
 
    ![GitHub followers](https://img.shields.io/github/followers/alazy11?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/alazy11?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alazy11.repoName) <img src="https://komarev.com/ghpvc/?username=alazy11" alt="alazy11" />
 <br>
-<h1>About Me:</h1>
+<h2>About Me:</h2>
 
 - 🌱 I’m currently learning **Reacte , javascript**
 
@@ -13,7 +13,6 @@
 - 📫 How to reach me **abdualaziznajeeba77@gmail.com**
 
 <h2>Connect with me:</h2>
-<hr>
 <p align="left">
 <a href="https://codepen.io/@alazy11-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@alazy11-the-styleful" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alazy alhimeari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alazy alhimeari" height="30" width="40" /></a>
