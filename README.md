@@ -66,4 +66,7 @@
 &nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <h2>Repository:</h2>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alazy11&repo=Div-Acadmy&theme=slateorange&hide_border=true" alt="alazy"/>
+<div style="display:flex; align-items:flex-start;">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alazy11&repo=Div-Acadmy&theme=slateorange&hide_border=true" alt="alazy"/>
+<img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=alazy11&repo=Slash-Twasol&theme=slateorange&hide_border=true" alt="alazy"/>
+</div>
