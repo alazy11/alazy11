@@ -16,9 +16,9 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazy11&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&disable_animations=true&theme=slateorange&hide_border=true" alt="alazy11" />
 </p>
 
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alazy11&show_icons=true&rank_icon=github&disable_animations=true&theme=slateorange&hide_border=true&card_width=400px" alt="alazy11" />
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alazy11&theme=slateorange&hide_border=true&card_width=450px" alt="alazy11" /></p>
+<p style="display:flex;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alazy11&show_icons=true&rank_icon=github&disable_animations=true&theme=slateorange&hide_border=true&card_width=400px" alt="alazy11" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alazy11&theme=slateorange&hide_border=true&card_width=450px" alt="alazy11" />
+</p>
 
 
 <h2>Connect with me:</h2>
