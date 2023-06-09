@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **abdualaziznajeeba77@gmail.com**
 
-<h3>Connect with me:</h3>
-<hr style="height:1px;">
+<h2>Connect with me:</h2>
+<hr>
 <p align="left">
 <a href="https://codepen.io/@alazy11-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@alazy11-the-styleful" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alazy alhimeari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alazy alhimeari" height="30" width="40" /></a>
