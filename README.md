@@ -5,7 +5,6 @@
    ![GitHub followers](https://img.shields.io/github/followers/alazy11?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/alazy11?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alazy11.repoName) <img src="https://komarev.com/ghpvc/?username=alazy11" alt="alazy11" />
 
 <br>
-
 - 🌱 I’m currently learning **Reacte , javascript**
 
 - 💬 Ask me about **HTML, CSS, JS, SASS**
